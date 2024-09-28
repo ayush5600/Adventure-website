@@ -57,12 +57,12 @@ section {
 
 .secHeading {
     font-size: clamp(2.5rem, 10vw, 5rem);
-    padding: 0 10rem;
+    padding: 0 2rem;
 }
 
 .text {
     font-size: 1.5rem;
-    padding: 0 10rem;
+    padding: 0 2rem;
     margin: 5rem 0;
 }
 
